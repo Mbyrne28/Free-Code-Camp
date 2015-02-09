@@ -1,2 +1,2 @@
-# Free-Code-Camp
+# Free Code Camp
 100 Challenges 
